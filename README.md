@@ -1,2 +1,2 @@
-# WP_Csharp_HW
+# WP_CSharp_HW
 WindowsProgrammingHW
