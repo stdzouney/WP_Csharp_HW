@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\bin\Debug\WP0513_5 cal v3.exe.config
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\bin\Debug\WP0513_5 cal v3.exe
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\bin\Debug\WP0513_5 cal v3.pdb
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\obj\Debug\WP0513_5 cal v3.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\obj\Debug\WP0513_5 cal v3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\obj\Debug\WP0513_5_cal_v3.Form1.resources
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\obj\Debug\WP0513_5_cal_v3.Properties.Resources.resources
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\obj\Debug\WP0513_5 cal v3.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\obj\Debug\WP0513_5 cal v3.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\obj\Debug\WP0513_5 cal v3.exe
+C:\Users\Home\source\repos\WP0513_5 cal v3\WP0513_5 cal v3\obj\Debug\WP0513_5 cal v3.pdb
