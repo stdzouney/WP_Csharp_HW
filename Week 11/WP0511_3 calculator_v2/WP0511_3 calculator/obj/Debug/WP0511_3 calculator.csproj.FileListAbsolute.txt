@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\bin\Debug\WP0511_3 calculator.exe.config
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\bin\Debug\WP0511_3 calculator.exe
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\bin\Debug\WP0511_3 calculator.pdb
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\obj\Debug\WP0511_3 calculator.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\obj\Debug\WP0511_3 calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\obj\Debug\WP0511_3_calculator.Form1.resources
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\obj\Debug\WP0511_3_calculator.Properties.Resources.resources
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\obj\Debug\WP0511_3 calculator.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\obj\Debug\WP0511_3 calculator.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\obj\Debug\WP0511_3 calculator.exe
+C:\Users\Home\source\repos\WP0511_3 calculator\WP0511_3 calculator\obj\Debug\WP0511_3 calculator.pdb
